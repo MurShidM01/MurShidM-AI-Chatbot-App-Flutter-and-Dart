@@ -27,12 +27,12 @@ A sophisticated Flutter-based AI chat assistant leveraging Google's Gemini Pro A
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/MurShidM01/MurShidM-AI-Chatbot-App-Flutter-and-Dart
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd firstapp
+cd Folder-Name
 ```
 
 3. Create a .env file in the root directory and add your Gemini API key:
