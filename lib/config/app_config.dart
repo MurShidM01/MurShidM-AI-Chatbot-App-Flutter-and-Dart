@@ -1,5 +1,5 @@
 class AppConfig {
-  static const String geminiApiKey = 'AIzaSyCA0_3DlTR44rFCgciaYm5uC_ANDhBV-sk';
+  static const String geminiApiKey = 'your gemini api key here';
   
   // Add other configuration values here if needed
 }
